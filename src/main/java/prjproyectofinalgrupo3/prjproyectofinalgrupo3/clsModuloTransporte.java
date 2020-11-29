@@ -45,7 +45,7 @@ public class clsModuloTransporte {
     }
 
     public void setTelefono(int telefono) {
-      (if (telefono >= 99999999 || telefono < 0) 
+      if (telefono >= 99999999 || telefono < 0) 
         this.telefono = telefono;
     }
 
