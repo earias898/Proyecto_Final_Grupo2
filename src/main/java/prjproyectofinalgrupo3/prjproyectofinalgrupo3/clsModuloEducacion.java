@@ -7,7 +7,7 @@ package prjproyectofinalgrupo3.prjproyectofinalgrupo3;
 
 /**
  *
- * @author esteb
+ * @author orak
  */
 public class clsModuloEducacion {
     
